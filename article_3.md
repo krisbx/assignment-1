@@ -1,6 +1,6 @@
 ## Career
 
-![falkowata = Designer's desk](work.jpg)
+![falkowata = Designer's desk](work.jpg "Work!")
 
 - Find a job in UX or Design that is suitable for me
 - Have the flexibility to work remotely

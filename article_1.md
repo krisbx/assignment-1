@@ -1,6 +1,6 @@
 ## Financial
 
-![Eric L = Money...](money.jpg)
+![Eric L = Money...](money.jpg "Money!")
 
 - Have a stable average / above average income
 - Comfortably afford personal items that are not necessities

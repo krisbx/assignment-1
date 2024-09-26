@@ -1,6 +1,6 @@
 ## Home
 
-![Trisha = Cozy Home](home.jpg)
+![Trisha = Cozy Home](home.jpg "Home!")
 
 - Find a cozy home with my partner
 - The home is affordable to maintain
