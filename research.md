@@ -1,1 +1,6 @@
-Research here
+## Student perspectives on competency-based portfolios
+
+The article I read talk about how student-made portfolios are often built using either educative requirements alone, or projects and assessments that fit only the students best attributes and none that showcase difficulty or weakness. The authors explain how students feel pressured to include certain assessments in their portfolios, which in turn leads to gaps where their growth is not shown. This study suggests that flexibility and student guidance would help improve this, as students would be able to add their personal touch to their projects, allowing those viewing to understand them a little more deeper.
+When thinking about the goals I included, I feel I thought a lot about my personal life as well as my educational/future career life. To me, it is necessary that I don't completely ignore my own hobbies and interests just to fit into the "requirements" or "expectations" for a career.
+
+Pool, A. O., Jaarsma, A. D., Driessen, E. W., & Govaerts, M. J. (2020). Student perspectives on competency-based portfolios: Does a&nbsp;portfolio reflect their competence development? Perspectives on Medical Education, 9(3), 166–172. https://doi.org/10.1007/s40037-020-00571-7 
